@@ -1,6 +1,9 @@
-# yc.github.io
+# thisisyc.github.io
 
-this is my first change
+# Yan Cheng's Profile Page
+
+1. Student of SUSS
+2. Single and ready to mingle (not really, I'm afraid of communication)
 
 # Headers
 
