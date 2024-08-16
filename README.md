@@ -3,7 +3,9 @@
 # Yan Cheng's Profile Page
 
 1. Student of SUSS
-2. Single and ready to mingle (not really, I'm afraid of communication)
+2. I am going to eat wingstop later
+
+![wingstop](https://www.pinterest.com/pin/1007680485368035363/)
 
 # Headers
 
