@@ -5,6 +5,7 @@
 1. Student of SUSS
 2. I am going to eat wingstop later
 
+![alt text](https://www.pinterest.com/pin/1007680485368035363/)
 ![wingstop](https://www.pinterest.com/pin/1007680485368035363/)
 
 # Headers
